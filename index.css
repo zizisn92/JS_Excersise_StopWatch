@@ -1,0 +1,37 @@
+body{
+    background-color: lightblue;
+}
+div
+{
+    height: 200px;
+}
+#title
+{
+    padding: 50px;
+    font-size: 100px;
+    color: gray;
+    text-align: center;
+    font-weight: bold;
+}
+#time
+{
+    font-size: 100px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+#multibnt 
+{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.bnt
+{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    background-color: yellowgreen;
+
+}
